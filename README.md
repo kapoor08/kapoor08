@@ -2,11 +2,11 @@
 
 ## Full Stack Developer | Master's in Computer Application Student
 
-I'm a passionate full stack developer with 2+ years of experience, currently pursuing my Master's in Computer Application while working in the tech industry. I enjoy building robust web and mobile applications using modern technologies.
+I'm a passionate full-stack developer with 2+ years of experience. I'm pursuing my Master's in Computer Applications while working in the tech industry. I enjoy building robust web and mobile applications using modern technologies.
 
 ## 💼 Professional Experience
 
-- **Full Stack Developer** at [Netweb Technologies] _(Current)_
+- **Full Stack Developer** at Netweb Technologies _(Current)_
   - Building and maintaining web and mobile applications using React, Next.js, and React Native
   - Implementing backend solutions with Node.js and Express
   - Working with databases and API services, including Supabase and GraphQL
@@ -33,8 +33,8 @@ I'm a passionate full stack developer with 2+ years of experience, currently pur
 
 ## 🎓 Education
 
-- **Master's in Computer Application** - [Lovely Professional University] _(In Progress)_
-- **Bachelor's Degree** - [DAV College, Amritsar] _(Completed)_
+- **Master's in Computer Application** - Lovely Professional University _(In Progress)_
+- **Bachelor's Degree** - DAV College, Amritsar _(Completed)_
 
 ## 📫 How to Reach Me
 
