@@ -192,7 +192,7 @@ A SaaS concept focused on combining AI-powered customer support, automation, kno
 
 ## 🎓 Education
 
-- **Master's in Computer Application** - Lovely Professional University _(In Progress)_
+- **Master's in Computer Application** - Lovely Professional University _(Completed)_
 - **Bachelor's Degree** - DAV College, Amritsar _(Completed)_
 
 ## 📫 How to Reach Me
