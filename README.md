@@ -1,19 +1,21 @@
-  # 👋 Hello, I'm Lakshay Kapoor
+# 👋 Hello, I'm Lakshay Kapoor
 
-## Full-Stack Developer | SaaS Builder | AI & Product Engineering
+## Full-Stack Developer | AI-Powered Applications | SaaS Builder
 
-I'm a Full-Stack Developer with 3+ years of professional experience building modern, scalable, and production-ready applications.
+I'm a Full-Stack Developer with 3+ years of professional experience building high-scale web applications, multi-tenant SaaS platforms, and production-grade AI solutions.
 
 I enjoy working across the entire product lifecycle - from architecture and database design to frontend, backend, APIs, integrations, deployment, and optimization. I'm technology-agnostic and enjoy learning and applying the right tools for the problem rather than limiting myself to a single stack.
+
+🌐 **Portfolio & case studies: [lakshaykapoor.in](https://lakshaykapoor.in)**
 
 ---
 
 - 🚀 What I Build
 - 🌐 Full-stack web applications
 - 🏢 Multi-tenant SaaS platforms
-- 🤖 AI-powered applications & RAG systems
+- 🤖 AI-powered applications, RAG systems & voice agents
+- 🧠 Autonomous multi-agent systems
 - 📊 Admin dashboards & internal tools
-- 📱 Cross-platform mobile applications
 - 🔌 REST & third-party API integrations
 - ⚡ High-performance and scalable applications
 - ☁️ Cloud-ready applications and deployment pipelines
@@ -22,19 +24,19 @@ I enjoy working across the entire product lifecycle - from architecture and data
 
 ## 💼 Professional Experience
 
-**Full Stack Developer - Netweb Technologies**
+**Full Stack Developer - Netweb Technologies** _(Sep 2023 - Present)_
 Working on production applications across frontend, backend, databases, APIs, integrations, and deployment.
 
 My work includes:
-- Building and maintaining applications using React, Next.js, Angular, and React Native
+- Architecting and delivering production-ready SaaS features using React, Next.js, TypeScript, and Node.js
 - Developing backend services with Node.js, Express, Python, and FastAPI
-- Designing and integrating REST APIs and GraphQL APIs
+- Optimizing data-filtering layers and complex backend queries across large-scale datasets
+- Designing and integrating secure REST APIs
 - Working with PostgreSQL, MongoDB, Supabase, and SQL-based systems
 - Implementing authentication, authorization, RBAC, and multi-tenant architectures
-- Integrating third-party platforms and services
+- Leading the integration of contextual data workflows and secure LLM chatbot components
+- Establishing standardized CI/CD pipelines and automated Docker environments
 - Debugging and optimizing production applications
-- Working with Git, GitHub, Docker, CI/CD, and cloud deployment platforms
-- Exploring and integrating AI capabilities into modern applications
 
 ---
 
@@ -46,16 +48,16 @@ My work includes:
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular)
-![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
 ![Material UI](https://img.shields.io/badge/Material_UI-000?style=flat-square&logo=mui)
-![Ant Design](https://img.shields.io/badge/Ant_Design-000?style=flat-square&logo=antdesign)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square)
-![Mantine](https://img.shields.io/badge/Mantine-000?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-000?style=flat-square&logo=reactquery)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-000?style=flat-square&logo=reacthookform)
+
+Also familiar with: Angular (Basic), React Native (Basic)
 
 ### Backend
 
@@ -63,32 +65,36 @@ My work includes:
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?style=flat-square&logo=graphql)
 ![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
+![SSE](https://img.shields.io/badge/Server--Sent_Events-000?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-000?style=flat-square)
 
-### Databases & Backend Services
+### Databases & ORMs
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase)
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-000?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis)
 
 ### AI / RAG
 
 ![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-000?style=flat-square&logo=huggingface)
-![Pinecone](https://img.shields.io/badge/Vector_DB-000?style=flat-square)
 
-- Retrieval-Augmented Generation (RAG)
-- LLM integrations
-- Embeddings & vector search
+- Retrieval-Augmented Generation (RAG) pipelines
+- LLM orchestration & multi-provider integrations
+- Autonomous agents & tool calling
+- Voice AI agents
+- Embeddings, vector search & hybrid retrieval
 - AI chat applications
-- AI-powered automation
 - Local LLM inference
-- AI agents & tool calling
 
 ### Authentication & Security
 
@@ -98,20 +104,18 @@ My work includes:
 
 - Authentication & authorization
 - Role-Based Access Control (RBAC)
-- Multi-tenant authentication
-- API security
+- Multi-tenant authentication & tenant-scoped data isolation
+- API security, webhook signature verification
 - Protected routes & APIs
 
 ### APIs & Integrations
 
-![Shopify](https://img.shields.io/badge/Shopify-000?style=flat-square&logo=shopify)
-![Zoho](https://img.shields.io/badge/Zoho-000?style=flat-square)
-![Klaviyo](https://img.shields.io/badge/Klaviyo-000?style=flat-square)
 ![Slack](https://img.shields.io/badge/Slack-000?style=flat-square&logo=slack)
-![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n)
+![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe)
+![Inngest](https://img.shields.io/badge/Inngest-000?style=flat-square)
+![Pusher](https://img.shields.io/badge/Pusher-000?style=flat-square&logo=pusher)
 
 - REST API integrations
-- GraphQL integrations
 - Webhooks
 - Third-party SaaS integrations
 - OAuth integrations
@@ -119,19 +123,16 @@ My work includes:
 ### DevOps, Cloud & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Railway](https://img.shields.io/badge/Railway-000?style=flat-square)
-![Fly.io](https://img.shields.io/badge/Fly.io-000?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=flat-square&logo=googlecloud)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=flat-square&logo=nginx)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman)
+![Zod](https://img.shields.io/badge/Zod-000?style=flat-square&logo=zod)
 
 - Docker & containerization
-- CI/CD
+- CI/CD pipelines
 - Cloud deployment
-- Linux server administration
 - Environment & secrets management
 
 ### Testing & Code Quality
@@ -149,6 +150,43 @@ My work includes:
 ---
 
 ## 📦 Featured Projects
+
+### 🎙️ Commerce Voice AI
+
+**AI-powered e-commerce voice agent**
+
+A high-performance customer support agent powering low-latency voice interactions and simultaneous text chat.
+
+Highlights:
+- ElevenLabs Conversational AI + Next.js + TypeScript
+- Tool-calling layer integrating 17 backend microservices (catalog search, cart state, inventory validation, scheduling)
+- Policy-grounded RAG with prompt-injection defenses
+- Secure webhook verification signatures & customer ownership assertions
+
+### 📚 Knowledger AI
+
+**AI-powered document intelligence & RAG SaaS**
+
+A multi-tenant platform that lets teams train a knowledge base from documents and websites, then chat with their data anywhere - including an embeddable widget for third-party sites.
+
+Highlights:
+- Hybrid RAG pipeline: Pinecone vector search + PostgreSQL full-text + Reciprocal Rank Fusion + custom reranking
+- Concurrent file chunking engines & recursive web crawlers
+- Asynchronous processing with Inngest, Vercel Blob & Pusher WebSockets
+- Embeddable lightweight chat widget
+
+### 🤖 Agent Flow AI
+
+**Agentic AI operations platform**
+
+A multi-agent orchestration engine managing specialized worker agents for deep data analysis and research tasks.
+
+Highlights:
+- Next.js + TypeScript + Vercel AI SDK
+- Multi-provider LLM integrations with tenant-scoped data isolation
+- pgvector RAG lookups & Zod-validated structured outputs
+- Human-in-the-loop validation, SSE streaming, idempotent execution & immutable audit logs
+
 ### 🚀 Client Flow
 
 **Multi-tenant SaaS platform**
@@ -156,44 +194,22 @@ My work includes:
 A SaaS platform designed to streamline client management and business workflows.
 
 Focus areas:
-- Multi-tenant architecture
-- Authentication & authorization
-- Role-based access control
-- Dashboard-driven workflows
-- API integrations
+- Multi-tenant architecture with tenant-scoped data models
+- Authentication, authorization & RBAC
+- Billing, invoices & webhooks
+- Real-time notifications
 - Scalable database architecture
-- Modern responsive UI
-  
+
 🌐 **https://client-flow.in**
 
-### 🤖 Queryon
-
-**AI-powered RAG platform**
-
-An AI chat application designed to allow users to train their own knowledge base and interact with their data through an AI-powered chat interface.
-
-Technology focus:
-- React
-- Python / FastAPI
-- LangChain
-- Ollama
-- Pinecone
-- Vector embeddings
-- PostgreSQL
-- RAG architecture
-
-### ⚡ Axiovo
-
-**AI-powered customer communication & automation platform**
-
-A SaaS concept focused on combining AI-powered customer support, automation, knowledge bases, integrations, analytics, and customizable website widgets into a single platform.
+👉 Detailed case studies for these and more: **[lakshaykapoor.in/work](https://lakshaykapoor.in/work)**
 
 ---
 
 ## 🎓 Education
 
-- **Master's in Computer Application** - Lovely Professional University _(Completed)_
-- **Bachelor's Degree** - DAV College, Amritsar _(Completed)_
+- **Master of Computer Applications (MCA)** - Lovely Professional University, Phagwara _(2023 - 2025)_
+- **Bachelor of Computer Applications (BCA)** - DAV College, Amritsar _(2020 - 2023)_
 
 ## 📫 How to Reach Me
 
